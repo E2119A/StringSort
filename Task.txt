@@ -1,0 +1,10 @@
+Napisz program, który:
+1) pozwala użytkownikowi na wprowadzenie dowolnej liczby ciągów znakowych (zdań)
+
+2) odwraca kolejność wyrazów w każdym z ciągów (od ostatniego do pierwszego wyrazu)
+
+3) wyprowadza przetworzone ciągi w kolejności od najkrótszego do najdłuższego z informacją
+jako który z kolei był początkowo wprowadzony, liczby wyrazów z których jest złożony
+oraz ile razy każdy znak wystąpił w danym ciągu
+
+4) umożliwia użytkownikowi zmianę kolejności wyświetlania ciągów (tj. od najdłuższego do najkrótszego)
